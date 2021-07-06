@@ -1,0 +1,15 @@
+@media (max-width: 900px) {
+  .form-home {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .img-home {
+    display: none;
+  }
+
+  header {
+    background-color: var(--primary-color);
+  }
+}
