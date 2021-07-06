@@ -28,6 +28,12 @@ header {
   display: flex;
   margin: 30px;
   width: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-home img {
+  height: 550px;
 }
 
 .form-home {
