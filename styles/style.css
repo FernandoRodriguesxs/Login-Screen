@@ -26,6 +26,7 @@ header {
 
 .img-home {
   display: flex;
+  margin: 30px;
   width: 50%;
 }
 
